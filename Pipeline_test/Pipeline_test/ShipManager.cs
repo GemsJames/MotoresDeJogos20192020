@@ -91,7 +91,18 @@ namespace Pipeline_test
             tempShips.Clear();
 
             MemoryDebug.Update();
-            MessageBus.InsertNewMessage(new ConsoleMessage("Available ships: " + availableShips.Count + " ,Busy Ships: " + busyShips.Count + " Total: " + (busyShips.Count + availableShips.Count)));
+
+            //MessageBus.InsertNewMessage(new ConsoleMessage("Available ships: " + availableShips.Count + " ,Busy Ships: " + busyShips.Count + " Total: " + (busyShips.Count + availableShips.Count)));
+
+            StringBuilder msg = new StringBuilder("Available ships: ");
+            msg.Append(availableShips.Count.ToString());
+            msg.Append(" ,Busy Ships: ");
+            msg.Append(busyShips.Count.ToString());
+            msg.Append(" Total: ");
+            msg.Append((busyShips.Count + availableShips.Count).ToString());
+            string finalMsg = msg.ToString();
+
+            MessageBus.InsertNewMessage(new ConsoleMessage(finalMsg));
 
         }
 

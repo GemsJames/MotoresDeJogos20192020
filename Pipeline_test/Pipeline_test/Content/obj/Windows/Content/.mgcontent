@@ -4,23 +4,23 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/p1_saucer.fbx</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/pencil_p1_diff_v1.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/pencil_p1_diff_v2.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/pencil_p1_diff_v3.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/pencil_p2_diff_v1.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/pencil_p2_diff_v2.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/pencil_p2_diff_v3.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/saucer_p1_diff_v1.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/saucer_p1_diff_v2.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/saucer_p1_diff_v3.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/saucer_p2_diff_v1.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/saucer_p2_diff_v2.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/saucer_p2_diff_v3.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/wedge_p1_diff_v1.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/wedge_p2_diff_v1.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/wedge_p2_diff_v2.tga</File>
-    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Pipeline_test/Pipeline_test/Content/textures/wedge_p2_diff_v3.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/p1_saucer.fbx</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/pencil_p1_diff_v1.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/pencil_p1_diff_v2.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/pencil_p1_diff_v3.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/pencil_p2_diff_v1.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/pencil_p2_diff_v2.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/pencil_p2_diff_v3.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/saucer_p1_diff_v1.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/saucer_p1_diff_v2.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/saucer_p1_diff_v3.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/saucer_p2_diff_v1.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/saucer_p2_diff_v2.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/saucer_p2_diff_v3.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/wedge_p1_diff_v1.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/wedge_p2_diff_v1.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/wedge_p2_diff_v2.tga</File>
+    <File>E:/1-School/4-Primeiro Ano Mestrado - Primeiro Semestre/Motores de Jogos/Motor/MotoresDeJogos20192020/Pipeline_test/Pipeline_test/Content/textures/wedge_p2_diff_v3.tga</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
